@@ -11,6 +11,7 @@ package com.mycompany.test;
 public class Calculadora {
     int suma(int a, int b){
         int resultat=a+b;
+        int ae=a+b;
         return resultat;
     }
     int resta(int a, int b){
